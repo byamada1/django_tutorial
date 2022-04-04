@@ -1,2 +1,2 @@
-# newgame
-another bad game maybe
+# django tutorial
+following django tutorial
